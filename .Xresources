@@ -1,0 +1,6 @@
+URxvt.boldFont:
+
+URxvt.depth: 32
+
+URxvt.scrollBar: false
+URxvt.cursorBlink: true
