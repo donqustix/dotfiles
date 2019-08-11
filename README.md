@@ -1,6 +1,6 @@
 # dotfiles
 
-![preview image](preview.png)
+![preview image](preview.jpg)
 
 Wallpaper: <https://i.imgur.com/SXqg6GH.jpg>.
 
