@@ -1,5 +1,9 @@
 # dotfiles
 
+![preview image](preview.png)
+
+Wallpaper: <https://i.imgur.com/SXqg6GH.jpg>.
+
 ## Installation
 
 1. Install the following dependencies:
