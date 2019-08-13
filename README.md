@@ -13,6 +13,6 @@ Wallpaper: <https://i.imgur.com/SXqg6GH.jpg>.
 
 3. Generate a colorscheme with `wal -i "path/to/img.jpg"`.
 
-3. Add `(cat ~/.cache/wal/sequences &)` to the `.bashrc`.
+4. Add `(cat ~/.cache/wal/sequences &)` to `.bashrc`.
 
-4. Run `xrdb ~/.Xresources` and `./init_wal.sh` before starting i3.
+5. Run `xrdb ~/.Xresources` and `./init_wal.sh` before starting i3.
